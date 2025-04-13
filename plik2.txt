@@ -1,1 +1,2 @@
-git remote powinnien być
+git remote powinnien być 
+edit żeby był konflikt pozdro

@@ -1,2 +1,2 @@
 git remote powinnien być 
-edit żeby był konflikt pozdro
+wersja klonowana

@@ -1,2 +1,2 @@
 git remote powinnien być 
-wersja klonowana
+wersja originalna
